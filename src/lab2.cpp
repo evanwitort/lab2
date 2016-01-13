@@ -16,9 +16,22 @@ int illegalStatements() {
     return 0;
 }
 
-int main() {
-    illegalStatements();
-    cout << "Start with Exercise 1 (legal/illegal statements)" << endl;
-    cout << "Then work on the exercises and code them up." << endl;
-}
+//using namespace std;
+//void odd_or_even(long num) {
+//    if (num%2 == 0) //even
+//        cout << num << " is even\n";
+//    else //odd
+//        cout << num << " is odd\n";//
+//}
 
+//int main () {
+//    odd_or_even(130);
+//    odd_or_even(8475335282);
+//    return 0;
+//}
+
+
+int simple_math() {
+    string rand, rator1, rator2;
+    cout <<
+}
